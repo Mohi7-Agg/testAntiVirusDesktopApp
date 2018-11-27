@@ -1,0 +1,15 @@
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\bin\Debug\testAntiVirusDesktopApp.exe.config
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\bin\Debug\testAntiVirusDesktopApp.exe
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\bin\Debug\testAntiVirusDesktopApp.pdb
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\MainWindow.g.cs
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\App.g.cs
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp_MarkupCompile.cache
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp_MarkupCompile.lref
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\MainWindow.baml
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp.g.resources
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp.Properties.Resources.resources
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp.csproj.GenerateResource.Cache
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp.exe
+C:\Users\mohitaggarwal\Desktop\testAntiVirusDesktopApp\testAntiVirusDesktopApp\obj\Debug\testAntiVirusDesktopApp.pdb
